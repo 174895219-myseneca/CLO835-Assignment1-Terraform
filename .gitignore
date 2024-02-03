@@ -1,0 +1,7 @@
+terraform.tfstate
+.git
+.terraform
+terraform.tfstate.backup
+.terraform.lock.hcl
+week4
+week4.pub
